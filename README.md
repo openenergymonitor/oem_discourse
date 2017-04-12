@@ -6,6 +6,8 @@ Running discourse docker container
 
     cd /var/discourse
 
+**./launcher may require 'sudo'**
+
 Start / stop container
 
     /var/discourse/./launcher start app
